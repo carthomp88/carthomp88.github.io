@@ -1,0 +1,5 @@
+bg: #ffeef2
+gray: #595758
+pink: #ff0099;
+purple1: #ffc8fb
+purple2: #ffe4f3
